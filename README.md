@@ -31,6 +31,3 @@ samples, guidance on mobile development, and a full API reference.
   
 - ⚡ You can delete your completed task **Yeah! Task done. Now delete it**
 
-- 👨‍💻 All of my projects are available at [https://yash-kumar-gupta-0845.github.io/Portfolio/](https://yash-kumar-gupta-0845.github.io/Portfolio/)
-
-- 📫 How to reach me **yash.gupta0845@gmail.com**
